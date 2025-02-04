@@ -13,5 +13,5 @@ O objetivo principal é crescer o máximo possível sem colidir consigo mesma.
 O placar é baseado no número de presas abatidas.
 
 Link do game na plataforam Codepen:
-https://codepen.io/anderson-souza-the-scripter
+[https://codepen.io/anderson-souza-the-scripter](https://codepen.io/anderson-souza-the-scripter/pen/ZEaOPNd)
 
